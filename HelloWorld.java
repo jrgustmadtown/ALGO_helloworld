@@ -1,4 +1,4 @@
-import java.util.BufferedReader;
+import java.io.BufferedReader;
 
 public class HelloWorld {
     public static void main(String[] args) {
