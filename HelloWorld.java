@@ -6,10 +6,10 @@ public class HelloWorld {
     public static void main(String[] args) throws IOException {
         BufferedReader b = new BufferedReader(new InputStreamReader(System.in));
         
-        int n = Integer.parseInt(b.readLine());  // Read number of inputs
+        int n = Integer.parseInt(b.readLine()); 
         
         for (int i = 0; i < n; i++) {
-            String output = b.readLine();  // Correct method to read line
+            String output = b.readLine(); 
             System.out.println("Hello, " + output + "!");
         }
     }
