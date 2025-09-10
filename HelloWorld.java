@@ -8,7 +8,7 @@ public class HelloWorld {
         
         for (int i = 0; i < n; i++) 
         {
-            String output = s.nextLine()
+            String output = s.nextLine();
             System.out.println("Hello, " + output + "!");
         }
     }
