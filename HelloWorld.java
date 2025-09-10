@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.BufferedReader;
 
 public class HelloWorld {
     public static void main(String[] args) {
