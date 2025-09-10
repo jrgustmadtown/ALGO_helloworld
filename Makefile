@@ -1,4 +1,4 @@
 build:
 	javac HelloWorld.java
 run: 
-	java HelloWorld
+	java HelloWorld.class
